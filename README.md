@@ -21,11 +21,7 @@ Before running the program, make sure you have the following:
 ---
 
 ## Installation
-<<<<<<< HEAD
-1. Download the `MP4 Video Converter.exe` executable from the [Releases](https://github.com/your-username/YTtoMP4/releases) section.
-=======
-1. Download the `MP4 Video Converter.exe` executable from the [Releases](https://github.com/Daniel-Eixea/YTtoMP4/releases) section.
->>>>>>> f748c11ed42fc0ce8491cb58f8391fa78e8737d6
+1. Download the `MP4 Video Converter.exe` executable from the [Releases](https://github.com/Daniel-Eixea/MP4-Video-Converter/releases) section.
 2. Make sure the required auxiliary files (if any) are in the correct folders:
    - `lib/yt-dlp.exe`
    - `lib/ffmpeg-7.1-full_build/bin/ffmpeg.exe`
